@@ -1,6 +1,10 @@
 <template>
   <div class="container">
     <div>
+       <div>
+      universal-social-auth with nuxtjs typescript test
+
+      </div>
       <Logo />
       <br />
       <div class="row">
