@@ -27,7 +27,7 @@
     "@nuxtjs/pwa": "^3.3.5",
     "core-js": "^3.9.1",
     "nuxt": "^2.15.3",
-    "universal-social-auth": "^0.1.9"
+    "universal-social-auth": "^0.2.2"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.0.1",
